@@ -1,3 +1,3 @@
 export default function hander(req, res) {
-  res.status(200).json({ text: "Hello" });
+  res.status(200).json({ text: "Good bye!" });
 }
